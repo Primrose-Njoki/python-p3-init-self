@@ -6,7 +6,7 @@ class Dog:
         self.name =name
         self.breed=breed
 
-bruno =Dog("bruno")
+bruno =Dog("bruno","Poodle")
 
 print(bruno.name ,bruno.breed)
 
